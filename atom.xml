@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Sascha's OctoPress Blog]]></title>
+  <link href="http://mundstein.github.com/atom.xml" rel="self"/>
+  <link href="http://mundstein.github.com/"/>
+  <updated>2012-06-14T11:47:16+02:00</updated>
+  <id>http://mundstein.github.com/</id>
+  <author>
+    <name><![CDATA[Sascha Mundstein]]></name>
+    <email><![CDATA[mundstein@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[First Post]]></title>
+    <link href="http://mundstein.github.com/2012/06/14/first-post/"/>
+    <updated>2012-06-14T11:43:00+02:00</updated>
+    <id>http://mundstein.github.com/2012/06/14/first-post</id>
+    <content type="html"><![CDATA[<p>Salve.</p>
+
+<p>This is simply an experiment to see if I can get Octopress to work.</p>
+
+<p>for (int i=0; i&lt;1000; i++) {</p>
+
+<pre><code>printf("%s", "Thanks, Brandon.");
+</code></pre>
+
+<p>}</p>
+
+<p>(Brandon is the creator of Octopress.)</p>
+]]></content>
+  </entry>
+  
+</feed>
