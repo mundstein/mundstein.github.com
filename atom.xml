@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Sascha's OctoPress Blog]]></title>
+  <title><![CDATA[Sascha's Hacker Blog]]></title>
   <link href="http://mundstein.github.com/atom.xml" rel="self"/>
   <link href="http://mundstein.github.com/"/>
-  <updated>2012-06-15T12:48:05+02:00</updated>
+  <updated>2012-06-15T12:49:56+02:00</updated>
   <id>http://mundstein.github.com/</id>
   <author>
     <name><![CDATA[Sascha Mundstein]]></name>
