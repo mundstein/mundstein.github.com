@@ -4,7 +4,7 @@
   <title><![CDATA[Sascha's Hacker Blog]]></title>
   <link href="http://mundstein.github.com/atom.xml" rel="self"/>
   <link href="http://mundstein.github.com/"/>
-  <updated>2012-06-15T13:09:08+02:00</updated>
+  <updated>2012-08-08T09:29:36+02:00</updated>
   <id>http://mundstein.github.com/</id>
   <author>
     <name><![CDATA[Sascha Mundstein]]></name>
@@ -14,23 +14,14 @@
 
   
   <entry>
-    <title type="html"><![CDATA[First Post]]></title>
-    <link href="http://mundstein.github.com/2012/06/14/first-post/"/>
-    <updated>2012-06-14T11:43:00+02:00</updated>
-    <id>http://mundstein.github.com/2012/06/14/first-post</id>
-    <content type="html"><![CDATA[<p>Salve.</p>
+    <title type="html"><![CDATA[iOS Development]]></title>
+    <link href="http://mundstein.github.com/2012/08/01/first-post/"/>
+    <updated>2012-08-01T11:43:00+02:00</updated>
+    <id>http://mundstein.github.com/2012/08/01/first-post</id>
+    <content type="html"><![CDATA[<p>iOS Development with an eye to great design.</p>
 
-<p>This is simply an experiment to see if I can get Octopress to work.</p>
-
-<figure class='code'><div class='highlight'><table><td class='gutter'><pre class='line-numbers'><span class='line-number'>1</span>
-<span class='line-number'>2</span>
-<span class='line-number'>3</span>
-</pre></td><td class='code'><pre><code class='plain'><span class='line'>for (int i=0; i&lt;1000; i++) {
-</span><span class='line'>    printf("%s", "Thanks, Brandon.");
-</span><span class='line'>}</span></code></pre></td></tr></table></div></figure>
-
-
-<p>(Brandon is the creator of Octopress.)</p>
+<p>In the ever evolving universe of ubiquitous free, I apps have specialized in viable B2B business models.
+Currently looking for young and hungry web developers.</p>
 ]]></content>
   </entry>
   
