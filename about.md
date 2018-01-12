@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-You can find more information at [mundstein.at](http://mundstein.at/).
+You can find more information at [mundstein.at]({{ site.homepage }}).
