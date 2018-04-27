@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Sascha Mundstein
-email: sascha@mundstein.at
+email: mundstein@post.harvard.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Sascha Mundstein is a technologist and humanist, inspired by technologies and ideas that can change the world in a positive way. Focus areas include Blockchain, Machine Learning and Artificial Intelligence, Linguistics, Musik, Philosophy, Finance and Healthcare.
 baseurl: "" # the subpath of your site, e.g. /blog
