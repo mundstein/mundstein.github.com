@@ -9,7 +9,7 @@ _by Sascha Mundstein_
 
 During the Spanish Inquisition, people who did not accept the rigid precepts of the ruling church were brutally persecuted and eliminated with the purpose of preserving the prevailing orthodoxy. Today, things are a bit less gruesome, but people are still willing to attack each other viciously based on difference of opinion about what should be the rules.
 
-Mind you, in recent times we had to grapple with new phenomena in the media that made us doubt not only what is true and what not, but even what truth itself actually is. I this case, the debate is about what should be true.
+Mind you, in recent times we had to grapple with new phenomena in the media that made us doubt not only what is true and what not, but even what truth itself actually is. In this case, the debate is about what should be true.
 
 Distributed Ledger Technology, also known as Blockchain technology, has this unique feature: it allows the storage of information that is extremely resilient to being altered or compromised. Moreover, this feature extends to the very mechanism which is employed to process data, i.e. the rules governing the blockchain. For example, the famed Bitcoin blockchain has a simple rule that prevents "double spending", the ability to spend one bitcoin more than once.
 
