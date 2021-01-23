@@ -3,6 +3,7 @@ layout: post
 title:  "Die Generäle im Gesundheitswesen - Vertrauen ändert alles"
 date:   2017-10-25 12:00:00 +0100
 categories: blockchain
+show: false
 ---
 
 _by Sascha Mundstein_
