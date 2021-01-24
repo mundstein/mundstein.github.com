@@ -16,7 +16,7 @@
 title: Sascha Mundstein
 email: mundstein@post.harvard.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Sascha Mundstein is a technologist and humanist, inspired by technologies and ideas that can change the world in a positive way. Focus areas include Blockchain, Machine Learning and Artificial Intelligence, Linguistics, Musik, Philosophy, Finance and Healthcare.
+  Sascha Mundstein is a technologist and humanist inspired by technologies and ideas that can change the world in a positive way. Focus areas include blockchain, machine learning, linguistics, musik, philosophy, finance and healthcare.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: mundstein
